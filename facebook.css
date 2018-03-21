@@ -1,0 +1,100 @@
+body{
+		background-color: white;
+		color: #3b5998;
+		font-family: Tahoma;
+		margin: 0;
+		padding: 0;
+	}
+
+h1{
+	background-color: #3b5998;
+	color: white;
+	font-family: Tahoma;
+	padding-top: 40px;
+	height: 60px;
+	margin: 0px;
+	text-decoration: none;
+	color: #ffffff;
+	
+}
+.menu{
+	background-color: #3b5998;
+	color: white;
+	font-family: Tahoma;
+	list-style: none;
+	text-align: center;
+	padding: 20px 0 20px 0;
+	margin:0px;
+}
+.menu > li {
+	display: inline-block;
+	padding-right: 85px;
+	padding-left: 85px;
+}
+
+.menu > li > a{
+	text-decoration: none;
+	color: white;
+}
+.menu > li > a:hover {
+	color: #a9a9a9;
+}
+
+h2{
+	color: #3b5998;
+	font-family: Tahoma;
+}
+
+#footer{
+	background-color: #3b5998;
+	color: white;
+	font-family: 'Lucida Grande';
+	text-decoration: none;
+	font-size: 12px;
+	margin: 150px;
+	width: 100%;
+	margin-left: 0px;
+	margin-bottom: 0px;
+}
+
+#imgtext{
+    width: 300px;
+    padding: 1px;
+    margin: 0px; 
+    float: right;
+    font-size: 12px;
+}
+
+#textbox {
+	width: 520px;
+	height: 300px;
+	padding-left: 390px;
+	text-align: center;
+	float: center;
+}
+
+.picnote{
+	width: 300px;
+    padding: 0px;
+    margin: 0px; 
+    float: right;
+    font-size: 12px;
+}
+
+#unawerenesstext{
+	width: 740px;
+	padding-left: 280px;
+	float: center;
+	text-align: left;
+}
+
+#sourcestext{
+	width: 700px;
+	padding-left: 280px;
+	float: center;
+	text-align: center; 
+}
+
+
+
+
